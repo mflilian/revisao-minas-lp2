@@ -4,65 +4,75 @@
 
 ## Exercícios Práticos
 
-### 1. Switch-case: dias da semana
+### 1. Que dia é hoje?
 
-Crie uma função que recebe um número de 1 a 7 e retorna o nome do dia da semana correspondente usando switch-case.
+Crie uma função que recebe um número de 1 a 7 e retorna o nome do dia da semana. Ex: 1 = "Domingo", 2 = "Segunda"... Use switch-case.
 
-### 2. Switch-case: emojis
+### 2. Cor e Emoji 🎨
 
-Crie uma função que recebe uma cor ("vermelho", "verde", "amarelo") e retorne um emoji diferente para cada cor usando switch-case.
+Crie uma função que recebe uma cor ("vermelho", "verde", "amarelo") e retorne um emoji representando essa cor. Ex: "vermelho" -> "❤"
 
-### 3. Switch-case: frutas
+### 3. Feira de frutas 🍎🍌🍓
 
-Crie uma função que recebe o nome de uma fruta e retorna o preço dela (maçã = 2, banana = 1, morango = 3).
+Crie uma função que recebe o nome de uma fruta e retorna o preço dela:
 
-### 4. Função de saudação
+* Maçã = 2 reais
+* Banana = 1 real
+* Morango = 3 reais
+  Use switch-case.
 
-Escreva uma função que recebe um nome e imprime: "Olá, \[nome]! Seja bem-vinda!"
+### 4. Saudação personalizada
 
-### 5. Função de comparação
+Escreva uma função que recebe um nome e imprime: "Olá, \[nome]! Que bom te ver por aqui."
 
-Crie uma função que recebe dois números e retorna o maior deles.
+### 5. Quem é maior?
 
-### 6. Função de média
+Crie uma função que recebe dois números e retorna qual deles é o maior.
 
-Crie uma função que recebe 3 números e retorna a média deles.
+### 6. Média da nota 🎓
 
-### 7. Array de cidades
+Escreva uma função que recebe 3 números (notas) e retorna a média.
 
-Crie um array com 5 cidades e imprima a cidade na posição 3.
+### 7. Viagem das cidades 🌍
 
-### 8. Função: primeiro item do array
+Crie um array com 5 cidades que você gostaria de visitar. Imprima a cidade que está na posição 3.
 
-Escreva uma função que recebe um array e retorna o primeiro item.
+### 8. Primeiro da lista
 
-### 9. Função: segundo item do array
+Crie uma função que recebe um array e retorna o primeiro item da lista.
+
+### 9. Segundo da fila
 
 Crie uma função que recebe um array e imprime o segundo item.
 
-### 10. Switch + Array
+### 10. Escolha do cardápio
 
-Crie uma função que recebe um número e um array. Se o número for 1, retorne o primeiro item do array. Se for 2, retorne o último. Caso contrário, retorne "Opção inválida".
+Crie uma função que recebe um número e um array:
 
-### 11. Função: maior que 10
+* Se o número for 1, retorne o primeiro item.
+* Se for 2, retorne o último.
+* Se for outro número, retorne "Opção inválida".
 
-Crie uma função que recebe um array de números e retorna "maior que 10" ou "menor ou igual a 10" com base no número na posição 3.
+### 11. Maior que 10?
 
-### 12. Fim de semana ou dia útil
+Crie uma função que recebe um array de números e verifica o valor da posição 3. Se for maior que 10, retorne "maior que 10", senão "menor ou igual a 10".
 
-Escreva uma função que recebe o nome de um dia e retorna "fim de semana" se for sábado ou domingo e "dia útil" caso contrário, usando switch-case.
+### 12. Trabalhar ou descansar?
 
-### 13. Função que repete número
+Escreva uma função que recebe o nome de um dia e retorna:
+
+* "Fim de semana" se for sábado ou domingo
+* "Dia útil" nos outros casos
+  Use switch-case.
+
+### 13. Repetição tripla
 
 Crie uma função que recebe um número e retorna um array com esse número repetido 3 vezes.
 
-### 14. Número do meio
+### 14. Quem está no meio?
 
-Crie uma função que recebe um array de 3 números e retorna o número do meio.
+Crie uma função que recebe um array com 3 números e retorna o que está no meio.
 
-### 15. Switch-case com nomes
+### 15. Cumprimentos diferentes
 
-Crie uma função que recebe um nome. Se for "Maria", retorne "Oi Maria!"; se for "Joana", retorne "Oi Joana!"; caso contrário, retorne "Olá!"
-
----
-
+Crie uma função que recebe um nome. Se for "Maria", diga "Oi Maria!"; se for "Joana", "Oi Joana!"; se for qualquer outro nome, diga "Olá!"
